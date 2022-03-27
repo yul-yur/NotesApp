@@ -1,4 +1,4 @@
 # NotesApp
 NotesApp
 
-Это приложение для добавления заметок
+This app is for adding notes.
